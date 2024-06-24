@@ -1,3 +1,3 @@
 # Simple_Calculator
 
-## https://dinesh-122333.github.io/Simple_Calculator/
+## https://simple-calculator-gamma-umber.vercel.app/
